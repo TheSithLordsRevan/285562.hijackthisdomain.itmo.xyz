@@ -1,2 +1,2 @@
-# 285562.hijackthisdomain.itmo.xyz
-# 123
+# Ilya Averin
+# 285562
